@@ -32,6 +32,8 @@ If you want to perform a full build with all integration tests, ensure you have 
 ## Spring Tool Suite (STS)
 In STS (or any Eclipse distro or other IDE with Gradle support), import the module directories as existing projects.  They should compile and the tests should run with no additional steps.
 
+
+
 # Getting Started Using Spring Boot
 This is the quickest way to get started with a new Spring Batch project.  You find the Getting Started Guide for Spring
 Batch on Spring.io: [Creating a Batch Service](https://spring.io/guides/gs/batch-processing/)
